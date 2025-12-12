@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png" />
+</p>
+
 # 💫 About Me:
 Hello everyone!<br>I'm currently a college student forecasting on web development, looking for more projects to collaborate and enhance my skills.
 
