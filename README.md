@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/iknoor12/iknoor12/main/github%20banner.jpeg" height="800" width="100% />
 </p>
 
 # 💫 About Me:
