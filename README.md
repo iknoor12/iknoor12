@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png" />
+  <img src="" />
 </p>
 
 # 💫 About Me:
