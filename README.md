@@ -11,6 +11,7 @@
 - Strengthening DSA & problem-solving using JavaScript.
 - Exploring API integration and performance optimization.
 - Improving teaching content for English activity sessions.
+  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/iknoor07)
