@@ -6,22 +6,16 @@
 <h2>Hi, I'm Iknoor</h2>
 <pre>A passionate <strong>Front-End Developer & Full-Stack Developer</strong> in progress, currently pursuing BCA at Eternal University,<br>Himachal Pradesh. I enjoy building clean, functional, and user-friendly web interfaces using JavaScript, React, and <br>modern UI concepts.<br>    I also actively work on <strong>Data Structure & algorithm</strong>, problem-solving, and logic building to strengthen my technical <br>foundation.</pre>
 
-<br>
-
 ## 🔭 Currently Working On
 - Building React projects with real-world UI patterns.
 - Strengthening DSA & problem-solving using JavaScript.
 - Exploring API integration and performance optimization.
 - Improving teaching content for English activity sessions.
 
-<br>
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/iknoor07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iknoor-vran/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imiknoor@gmail.com)
-
-<br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -33,14 +27,8 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<br>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iknoor12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iknoor12&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iknoor12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
