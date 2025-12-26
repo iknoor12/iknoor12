@@ -6,7 +6,7 @@
 
 <h2>Hi, I'm Iknoor</h2>
 
-<pre>A passionate <strong>Front-End Developer & Full-Stack Developer</strong> in progress, currently pursuing BCA at Eternal University,<br>Himachal Pradesh. I enjoy building clean, functional, and user-friendly web interfaces using JavaScript, React, and <br>modern UI concepts.<br> I also actively work on <strong>Data Structure & algorithm</strong>, problem-solving, and logic building to strengthen my technical <br>foundation.</pre>
+<pre>A passionate <strong>Front-End Developer & Full-Stack Developer</strong> in progress, currently pursuing BCA at Eternal University,<br>Himachal Pradesh.I enjoy building clean, functional, and user-friendly web interfaces using JavaScript, React,and <br>modern UI concepts.<br>I also actively work on <strong>Data Structure & algorithm</strong>, problem-solving, and logic building to strengthen my technical <br>foundation.</pre>
 
 ## 🔭 Currently Working On
 - Building React projects with real-world UI patterns.
