@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iknoor12/iknoor12/main/WhatsApp%20Image%202025-12-26%20at%2010.32.44%20AM.jpeg" height="600" width="100% />
+  <img src="https://raw.githubusercontent.com/iknoor12/iknoor12/main/WhatsApp%20Image%202025-12-26%20at%2010.32.44%20AM.jpeg" height="400" width="90% />
 </p>
 
 # 💫 About Me:
