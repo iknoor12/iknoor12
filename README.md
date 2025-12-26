@@ -1,9 +1,23 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iknoor12/iknoor12/main/WhatsApp%20Image%202025-12-26%20at%2010.32.44%20AM.jpeg" height="400" width="90% />
+  <img src="https://raw.githubusercontent.com/iknoor12/iknoor12/main/WhatsApp%20Image%202025-12-26%20at%2010.32.44%20AM.jpeg" height="400" width="90%" />
 </p>
 
 # 💫 About Me:
+
 <h2>Hi, I'm Iknoor</h2>
+
+<p>
+A passionate <strong>Front-End Developer & Full-Stack Developer</strong> in progress,
+currently pursuing BCA at Eternal University, Himachal Pradesh.
+I enjoy building clean, functional, and user-friendly web interfaces using
+JavaScript, React, and modern UI concepts.
+</p>
+
+<p>
+I also actively work on <strong>Data Structures & Algorithms</strong>,
+problem-solving, and logic building to strengthen my technical foundation.
+</p>
+
 <pre>A passionate <strong>Front-End Developer & Full-Stack Developer</strong> in progress, currently pursuing BCA at Eternal University,<br>Himachal Pradesh. I enjoy building clean, functional, and user-friendly web interfaces using JavaScript, React, and <br>modern UI concepts.<br>    I also actively work on <strong>Data Structure & algorithm</strong>, problem-solving, and logic building to strengthen my technical <br>foundation.</pre>
 
 ## 🔭 Currently Working On
